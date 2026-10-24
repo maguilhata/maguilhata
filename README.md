@@ -1,4 +1,10 @@
-Programador | Pentester | Estudante de Cybersecurity💻🐍
+Programador | Pentester Web | Estudante de Cybersecurity💻🐍
 
-Python • Linux • Web Security
-Tools: WhatWeb • Subfinder • Nmap • WPScan • SQLMap • WPHidden • Burp Suite
+#FERRAMENTAS UTILIZADAS:
+
+-whatweb
+-subfinder
+-nmap
+-wpscan
+-wphidden
+-burpsuite
