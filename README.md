@@ -8,3 +8,8 @@ Programador | Pentester Web | Estudante de Cybersecurity💻🐍
 - WPScan
 - WP-Hidden
 - Burp Suite
+
+- OS > KALI LINUX
+- USERNAME > maguilhata
+- Linguagem de programação > Python
+- 
