@@ -1,10 +1,10 @@
 Programador | Pentester Web | Estudante de Cybersecurity💻🐍
 
-#FERRAMENTAS UTILIZADAS:
+## FERRAMENTAS UTILIZADAS
 
--whatweb
--subfinder
--nmap
--wpscan
--wphidden
--burpsuite
+- WhatWeb
+- Subfinder
+- Nmap
+- WPScan
+- WP-Hidden
+- Burp Suite
