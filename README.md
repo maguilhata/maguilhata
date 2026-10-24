@@ -1,6 +1,6 @@
 Programador | Pentester Web | Estudante de Cybersecurity💻🐍
 
-## FERRAMENTAS UTILIZADAS
+## FERRAMENTAS UTILIZADAS:
 
 - WhatWeb
 - Subfinder
@@ -9,7 +9,10 @@ Programador | Pentester Web | Estudante de Cybersecurity💻🐍
 - WP-Hidden
 - Burp Suite
 
+## SOBRE:
+  
 - OS > KALI LINUX
 - USERNAME > maguilhata
 - Linguagem de programação > Python
-- 
+- Compartilho ferramentas desenvolvidas por mim.
+
