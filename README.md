@@ -1,16 +1,22 @@
-## Hi there 👋
+Programador | Pentester | Estudante de Cybersecurity | Python, Linux & segurança ofensiva.💻🐍
 
-<!--
-**maguilhata/maguilhata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ferramentas Utilizadas:
+WHATWEB 
+SUBFINDER
+NMAP
+WPSCAN
+SQLMAP 
+WPHIDDEN
+BURPSUITE
+PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+OS > KALI LINUX
+USERNAME > maguilhata
+
+
+
+
+
+
