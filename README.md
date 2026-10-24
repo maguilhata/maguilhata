@@ -1,22 +1,4 @@
-Programador | Pentester | Estudante de Cybersecurity | Python, Linux & segurança ofensiva.💻🐍
+Programador | Pentester | Estudante de Cybersecurity💻🐍
 
-
-Ferramentas Utilizadas:
-WHATWEB 
-SUBFINDER
-NMAP
-WPSCAN
-SQLMAP 
-WPHIDDEN
-BURPSUITE
-PYTHON
-
-
-OS > KALI LINUX
-USERNAME > maguilhata
-
-
-
-
-
-
+Python • Linux • Web Security
+Tools: WhatWeb • Subfinder • Nmap • WPScan • SQLMap • WPHidden • Burp Suite
