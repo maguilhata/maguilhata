@@ -8,6 +8,7 @@ Programador | Pentester Web | Estudante de Cybersecurity💻🐍
 - WPScan
 - WP-Hidden
 - Burp Suite
+- JoomlaSniff
 
 ## SOBRE:
   
