@@ -12,7 +12,7 @@ Programador | Pentester Web | Estudante de Cybersecurity💻🐍
 
 ## SOBRE:
   
-- OS > KALI LINUX
+- OS > Linux Ubuntu
 - USERNAME > maguilhata
 - Linguagem de programação > Python
 - Compartilho ferramentas desenvolvidas por mim.
